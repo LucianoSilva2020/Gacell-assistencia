@@ -87,7 +87,7 @@ function initComparisons() {
 const usuarios = [
     {
         login: '@ga.cell',
-        senha: 'assistencia8680'
+        senha: '12342024'
     }
 ]
 
